@@ -116,17 +116,6 @@ workbook contains record-level sheets.
 - **Semi-synthetic datasets, aggregate results and figures**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 - **Paper text** follows the license of the journal once published.
 
-## Citation
-
-```bibtex
-@article{fahmi2026eac,
-  title   = {Evidence Accumulation Clustering for Mixed-Type {MSME} Data: A Comparison of Unweighted Consensus Functions},
-  author  = {Fahmi, Mohammad Naufal and Husada, Erlangga Satrya and Kustiyahningsih, Yeni and Rahmanita, Eza and Purnama, Jaka},
-  journal = {JUTI: Jurnal Ilmiah Teknologi Informasi},
-  year    = {2026},
-  note    = {Under review}
-}
-```
 
 ## Contact
 
